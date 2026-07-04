@@ -9,7 +9,7 @@ Building reliable platforms, automating everything, and making delivery pipeline
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Senior+DevOps+%26+Platform+Engineer;Kubernetes+%7C+Terraform+%7C+GitOps;CI%2FCD+%7C+SRE+%7C+Cloud+Automation;MuleSoft+Platform+Architect" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/jagadeeshjeri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=jagdishjerri&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=jagadeeshjeri&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge" alt="Open to work" />
 
 </div>
@@ -76,8 +76,8 @@ Most of my work lives around Kubernetes, CI/CD, GitOps, and infrastructure as co
 
 <div align="center">
 
-<a href="https://github.com/jagdishjerri/devops-ai-playbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jagdishjerri&repo=devops-ai-playbook&theme=github_dark" alt="devops-ai-playbook" /></a>
-<a href="https://github.com/jagdishjerri/prisma-cloud-devsecops-workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jagdishjerri&repo=prisma-cloud-devsecops-workshop&theme=github_dark" alt="prisma-cloud-devsecops-workshop" /></a>
+<a href="https://github.com/jagadeeshjeri/devops-ai-playbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshjeri&repo=devops-ai-playbook&theme=github_dark" alt="devops-ai-playbook" /></a>
+<a href="https://github.com/jagadeeshjeri/prisma-cloud-devsecops-workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshjeri&repo=prisma-cloud-devsecops-workshop&theme=github_dark" alt="prisma-cloud-devsecops-workshop" /></a>
 
 </div>
 
@@ -108,12 +108,12 @@ I'm open to Senior DevOps / Platform Engineering / SRE roles, as well as freelan
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagdishjerri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishjerri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeeshjeri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshjeri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jagdishjerri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=jagadeeshjeri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -132,7 +132,7 @@ _Coming soon — automated via GitHub Actions._
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jagadeeshjeri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jagdishjerri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/jagadeeshjeri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -142,6 +142,6 @@ _Coming soon — automated via GitHub Actions._
 
 ### Automate the boring, secure the critical, ship with confidence.
 
-<img src="https://raw.githubusercontent.com/jagdishjerri/jagdishjerri/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jagadeeshjeri/jagadeeshjeri/output/snake.svg" alt="Snake animation" />
 
 </div>

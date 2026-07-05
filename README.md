@@ -62,6 +62,9 @@ Most of my work lives around Kubernetes, CI/CD, GitOps, and infrastructure as co
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 
 **Languages & Integration**
 
